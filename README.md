@@ -2,7 +2,7 @@
 
 A simple web-based text editor with formatting options.
 
-![Text Editor Screenshot](te.png)
+![Text Editor Screenshot](/te.png)
 
 ## Features
 
